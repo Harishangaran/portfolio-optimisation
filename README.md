@@ -30,6 +30,11 @@ ratio.
 Bonus: the model will output the efficient frontier curve with all the
 sim points along with the point with best Sharpe (large red dot).
 
+
+# Sample Output
+![Efficient Frontier Curve](/Figure_1.png)
+
+
 You are welcome to edit and improve the efficiency of the model.
 
 If you find the object oriented code below difficult to understand
