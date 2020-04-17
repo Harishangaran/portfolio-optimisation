@@ -17,6 +17,7 @@ portfolio, the maximum return and the volatility and the best Sharpe
 ratio.
 
 #Calling function:
+    
     optimisePortfolio(['AAPL','AMZN','IBM','MSFT'],'1000d',iterations=10000)
 
     Call list of stocks from yahoo finance. Check yahoo finance for ticker
