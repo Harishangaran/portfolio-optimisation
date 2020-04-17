@@ -28,7 +28,8 @@ ratio.
     iterations is the number of simulations
 
 Bonus: the model will output the efficient frontier curve with all the
-sim points along with the point with best Sharpe (large red dot).
+sim points along with the point with best Sharpe (large red dot). Also there
+will be table with the optimum weightings for your portfolio.
 
 
 # Sample Output
